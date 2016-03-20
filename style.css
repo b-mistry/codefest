@@ -1,0 +1,33 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	background: black;
+}
+
+header {
+
+	background: url(http://cool-iphonewallpapers.com/download/super-cute-dog.jpg);
+	background-size: cover;
+	height: 100%;
+}
+.title{
+	position: absolute;
+	top: 20%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	color: white;
+	text-align: center;
+	font-size: 3cm;
+}
+
+#main{
+
+	width: 80%;
+	margin: 20px auto;
+	left: 70%;
+	color: white;
+}
